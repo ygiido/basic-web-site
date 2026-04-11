@@ -35,4 +35,4 @@ Bu projeyi çalıştırmak için herhangi bir paket program (Node.js vb.) veya s
 * **Vanilla JavaScript:** Dışa bağımlılık olmadan eklenmiş temel script altyapısı.
 
 ---
-*Bu proje, temel web teknolojilerini (HTML/CSS) pratik yapmak ve klasik web tasarım prensiplerini uygulamak amacıyla geliştirilmiştir.*
+*Bu proje, temel web teknolojilerini (HTML/CSS) pratik yapmak ve klasik web tasarım prensiplerini uygulamak isteyenler için geliştirilmiştir.*
